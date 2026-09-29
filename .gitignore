@@ -1,0 +1,7 @@
+# Generated client deliverables.
+# This repository is public. Client performance reports contain campaign
+# results, contact details and commercial figures that must not be published
+# here — keep them local and share them directly with the client instead.
+SparqLabs_x_*
+*.pptx
+*.pdf
